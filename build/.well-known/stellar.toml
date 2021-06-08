@@ -1,0 +1,27 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GAPCAT2Q3DQVC6GMAJDERFRW4JMJDAIS7L7DX23XRDGHZPWFQUYPQATE",
+"GBPDZ2SVJ3LHUEHRDLWXB3DCYRT7BLVAGGCSIYTJ7AKBFCXWYWW54FYH"
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="Lumen Volt"
+ORG_TWITTER="@VoltLumens"
+ORG_LOGO="https://i.ibb.co/hdYKbrT/xlmvolt.png"
+ORG_OFFICIAL_EMAIL="VoltLumens@tutanota.com"
+
+
+[[CURRENCIES]]
+code="XLMV"
+issuer="GBPDZ2SVJ3LHUEHRDLWXB3DCYRT7BLVAGGCSIYTJ7AKBFCXWYWW54FYH"
+anchor_asset="false"
+name="Lumens Volt"
+desc="Lumens Volt [XLMV], the volt (symbol: V) is the derived unit for electric potential, electric potential difference (voltage), and electromotive force. It is named after the Italian physicist Alessandro Volta. One volt is defined as the electric potential between two points of a conducting wire when an electric current of one ampere dissipates one watt of power between those points. Lumens Volt was made to support digital representations of any currency, but it also has its own built-in token, called the lumen, created to fill a special role in the network. "
+conditions="There will only ever be 3.000.000 XLMTV tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/hdYKbrT/xlmvolt.png"
+fixed_number=3000000
+max_number=3000000
+is_unlimited=false
+#XLMV was issued using the open and inclusive Stellar blockchain network.
