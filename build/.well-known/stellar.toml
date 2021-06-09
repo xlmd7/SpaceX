@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GDUX77SWF6UVHIXSCLV6YWEHFMMMVGAS2O2ZYGQIU3FV2NEM6GZ5SNVX",
-"GDHLGELXSJPKCR4I55KWKXAJ2FBDEE5C4YMQ6XTVPJHIDGO3KUNQXAWE"
+"GBOXFFELBZXTBNP3FP6DQNBP2VY3NQX72XTHSKO2QITGWEFNMTJXTWEK"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMCSGO"
-ORG_TWITTER="@CSGOSTEAM"
-ORG_LOGO="https://i.ibb.co/ScQxBkR/db7221672fc6b447f7af2b1f61b140ef.png"
-ORG_OFFICIAL_EMAIL="Stellarcsgo@tutanota.com"
+ORG_NAME="XRP"
+ORG_TWITTER="@XRP"
+ORG_LOGO="https://i.ibb.co/TBWhzVz/d89d14e67a5a828f48b26b6207571810.png"
+ORG_OFFICIAL_EMAIL="XRP@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMSTEAM"
-issuer="GDHLGELXSJPKCR4I55KWKXAJ2FBDEE5C4YMQ6XTVPJHIDGO3KUNQXAWE"
+code="XRP"
+issuer="GBOXFFELBZXTBNP3FP6DQNBP2VY3NQX72XTHSKO2QITGWEFNMTJXTWEK"
 anchor_asset="false"
-name="Stellar CSGO"
-desc="Stellar CSGO [XLMCSGO],Counter-Strike: Global Offensive (CS:GO) is a multiplayer first-person shooter developed by Valve and Hidden Path Entertainment. It is the fourth game in the Counter-Strike series. Developed for over two years, Global Offensive was released for Windows, macOS, Xbox 360, and PlayStation 3 in August 2012, and for Linux in 2014. Valve still regularly updates the game, both with smaller balancing patches and larger content additions. "
-conditions="There will only ever be 10.000.000 XLMCSGO tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+name="Ripple (XRP)"
+desc=" 1 XRP token entitles you to receive 1 XRP on the Ripple blockchain. XRP is the cryptocurrency used by the Ripple payment network. Built for enterprise use, XRP aims to be a fast, cost-efficient cryptocurrency for cross-border payments. "
+conditions=" 1 XRP TOKEN ENTITLES YOU TO RECEIVE ON 1 XRP ON THE RIPPLE BLOCKCHAIN. WITHDRAWING IS MANUAL SO PLEASE CONTACT US ON xrpexchange@tutanota.com "
 image="hhttps://i.ibb.co/ScQxBkR/db7221672fc6b447f7af2b1f61b140ef.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#XLMMUSK was issued using the open and inclusive Stellar blockchain network.
+#XRP was issued using the open and inclusive Stellar blockchain network.
