@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDUX77SWF6UVHIXSCLV6YWEHFMMMVGAS2O2ZYGQIU3FV2NEM6GZ5SNVX",
-"GBOXFFELBZXTBNP3FP6DQNBP2VY3NQX72XTHSKO2QITGWEFNMTJXTWEK"
+"GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
+"GDKRFAIUHTRLMVDOGRAFBUULDBNKHRK6ZJ6JWXKBXZURERWAHHTWBWBD"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XRP"
-ORG_TWITTER="@XRP"
+ORG_NAME="Dot"
+ORG_TWITTER="@Dot"
 ORG_LOGO="https://i.ibb.co/TBWhzVz/d89d14e67a5a828f48b26b6207571810.png"
-ORG_OFFICIAL_EMAIL="XRP@tutanota.com"
+ORG_OFFICIAL_EMAIL="dot@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XRP"
-issuer="GBOXFFELBZXTBNP3FP6DQNBP2VY3NQX72XTHSKO2QITGWEFNMTJXTWEK"
+code="DOT"
+issuer="GDKRFAIUHTRLMVDOGRAFBUULDBNKHRK6ZJ6JWXKBXZURERWAHHTWBWBD"
 anchor_asset="false"
-name="Ripple (XRP)"
-desc=" 1 XRP token entitles you to receive 1 XRP on the Ripple blockchain. XRP is the cryptocurrency used by the Ripple payment network. Built for enterprise use, XRP aims to be a fast, cost-efficient cryptocurrency for cross-border payments. "
-conditions=" 1 XRP TOKEN ENTITLES YOU TO RECEIVE ON 1 XRP ON THE RIPPLE BLOCKCHAIN. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON xrpexchange@tutanota.com "
+name="PolkaDot (DOT)"
+desc=" 1 DOT token entitles you to receive 1 DOT on the Polkadot blockchain. Polkadot is built to connect private and consortium chains, public and permissionless networks, oracles, and future technologies that are yet to be created. Polkadot facilitates an internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain. "
+conditions=" 1 DOT TOKEN ENTITLES YOU TO RECEIVE ON 1 DOT ON THE POLKADOT BLOCKCHAIN. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON dotexchange@tutanota.com "
 image="https://i.ibb.co/ScQxBkR/db7221672fc6b447f7af2b1f61b140ef.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#XRP was issued using the open and inclusive Stellar blockchain network.
+#DOT was issued using the open and inclusive Stellar blockchain network.
