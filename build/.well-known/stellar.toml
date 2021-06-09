@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GDUX77SWF6UVHIXSCLV6YWEHFMMMVGAS2O2ZYGQIU3FV2NEM6GZ5SNVX",
-"GBMXEAHBWHGBTHWMU2UMRCA4YOCQ2EMKUY6NEXN5ZHMMW63HFL3TMPDC"
+"GDHLGELXSJPKCR4I55KWKXAJ2FBDEE5C4YMQ6XTVPJHIDGO3KUNQXAWE"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Stellar Musk"
-ORG_TWITTER="@MuskLumens"
-ORG_LOGO="https://i.ibb.co/fqnkDmq/musk.png"
-ORG_OFFICIAL_EMAIL="VoltLumens@tutanota.com"
+ORG_NAME="XLMCSGO"
+ORG_TWITTER="@CSGOSTEAM"
+ORG_LOGO="https://i.ibb.co/ScQxBkR/db7221672fc6b447f7af2b1f61b140ef.png"
+ORG_OFFICIAL_EMAIL="Stellarcsgo@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMMUSK"
-issuer="GBMXEAHBWHGBTHWMU2UMRCA4YOCQ2EMKUY6NEXN5ZHMMW63HFL3TMPDC"
+code="XLMSTEAM"
+issuer="GDHLGELXSJPKCR4I55KWKXAJ2FBDEE5C4YMQ6XTVPJHIDGO3KUNQXAWE"
 anchor_asset="false"
-name="Stellar Musk"
-desc="Stellar Musk [XLMMUSK], is an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineer at SpaceX; early stage investor,[note 1] CEO, and Product Architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. A centibillionaire, Musk is one of the richest people in the world.  "
-conditions="There will only ever be 5.000.000 XLMMUSK tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/fqnkDmq/musk.png"
-fixed_number=5000000
-max_number=5000000
+name="Stellar CSGO"
+desc="Stellar CSGO [XLMCSGO], is an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineer at SpaceX; early stage investor,[note 1] CEO, and Product Architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. A centibillionaire, Musk is one of the richest people in the world.  "
+conditions="There will only ever be 10.000.000 XLMCSGO tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="hhttps://i.ibb.co/ScQxBkR/db7221672fc6b447f7af2b1f61b140ef.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
 #XLMMUSK was issued using the open and inclusive Stellar blockchain network.
