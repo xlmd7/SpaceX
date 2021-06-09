@@ -9,7 +9,7 @@ VERSION="2.0.0"
 [DOCUMENTATION]
 ORG_NAME="Dot"
 ORG_TWITTER="@Dot"
-ORG_LOGO="https://i.ibb.co/TBWhzVz/d89d14e67a5a828f48b26b6207571810.png"
+ORG_LOGO="https://i.ibb.co/vLBW76p/polkadot-new-dot-logo.png"
 ORG_OFFICIAL_EMAIL="dot@tutanota.com"
 
 
@@ -20,7 +20,7 @@ anchor_asset="false"
 name="PolkaDot (DOT)"
 desc=" 1 DOT token entitles you to receive 1 DOT on the Polkadot blockchain. Polkadot is built to connect private and consortium chains, public and permissionless networks, oracles, and future technologies that are yet to be created. Polkadot facilitates an internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain. "
 conditions=" 1 DOT TOKEN ENTITLES YOU TO RECEIVE ON 1 DOT ON THE POLKADOT BLOCKCHAIN. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON dotexchange@tutanota.com "
-image="https://i.ibb.co/ScQxBkR/db7221672fc6b447f7af2b1f61b140ef.png"
+image="https://i.ibb.co/vLBW76p/polkadot-new-dot-logo.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
