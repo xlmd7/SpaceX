@@ -1,27 +1,26 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
-"GDKRFAIUHTRLMVDOGRAFBUULDBNKHRK6ZJ6JWXKBXZURERWAHHTWBWBD"
+"GC3R3U5T3FZ5LTUIL3NJPO6QCS7WB5L3T35ILXRQQWN7JWHM7ALYX73D"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Dot"
-ORG_TWITTER="@Dot"
-ORG_LOGO="https://i.ibb.co/vLBW76p/polkadot-new-dot-logo.png"
+ORG_NAME="TRUMP"
+ORG_TWITTER="@TRUMP"
+ORG_LOGO="https://i.ibb.co/94Pccgm/4d58d395a11f23b5cd58caeafce58b19-1024x576.jpg"
 ORG_OFFICIAL_EMAIL="dot@tutanota.com"
 
 
 [[CURRENCIES]]
-code="DOT"
-issuer="GDKRFAIUHTRLMVDOGRAFBUULDBNKHRK6ZJ6JWXKBXZURERWAHHTWBWBD"
+code="TRUMP"
+issuer="GC3R3U5T3FZ5LTUIL3NJPO6QCS7WB5L3T35ILXRQQWN7JWHM7ALYX73D"
 anchor_asset="false"
-name="PolkaDot (DOT)"
-desc=" 1 DOT token entitles you to receive 1 DOT on the Polkadot blockchain. Polkadot is built to connect private and consortium chains, public and permissionless networks, oracles, and future technologies that are yet to be created. Polkadot facilitates an internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain. "
-conditions=" 1 DOT TOKEN ENTITLES YOU TO RECEIVE ON 1 DOT ON THE POLKADOT BLOCKCHAIN. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON dotexchange@tutanota.com "
-image="https://i.ibb.co/vLBW76p/polkadot-new-dot-logo.png"
-fixed_number=10000000
-max_number=10000000
+name="TRUMP PRESIDENT"
+desc="Donald Trump will be our PRESIDENT in 2024. MAKE AMERICA GREAT AGAIN "
+conditions="EVERYONE CAN ADD THIS ASSET "
+image="https://i.ibb.co/94Pccgm/4d58d395a11f23b5cd58caeafce58b19-1024x576.jpg"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#DOT was issued using the open and inclusive Stellar blockchain network.
+#TRUMP was issued using the open and inclusive Stellar blockchain network.
