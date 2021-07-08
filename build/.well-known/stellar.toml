@@ -1,26 +1,26 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC3R3U5T3FZ5LTUIL3NJPO6QCS7WB5L3T35ILXRQQWN7JWHM7ALYX73D"
+"GDYQ4J76NUUSA2WISSGFE6JE4S52WB7VJWMEW2E4JVIIXP23VREFKIOE"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="TRUMP"
-ORG_TWITTER="@TRUMP"
-ORG_LOGO="https://i.ibb.co/94Pccgm/4d58d395a11f23b5cd58caeafce58b19-1024x576.jpg"
-ORG_OFFICIAL_EMAIL="dot@tutanota.com"
+ORG_NAME="XLMFORD"
+ORG_TWITTER="@XLMFORD"
+ORG_LOGO="https://i.ibb.co/Q8GqT7s/Ford-logo-flat-svg.png"
+ORG_OFFICIAL_EMAIL="fordxlm@tutanota.com"
 
 
 [[CURRENCIES]]
-code="TRUMP"
-issuer="GC3R3U5T3FZ5LTUIL3NJPO6QCS7WB5L3T35ILXRQQWN7JWHM7ALYX73D"
+code="XLMFORD"
+issuer="GDYQ4J76NUUSA2WISSGFE6JE4S52WB7VJWMEW2E4JVIIXP23VREFKIOE"
 anchor_asset="false"
-name="TRUMP PRESIDENT"
-desc="Donald Trump will be our PRESIDENT in 2024. MAKE AMERICA GREAT AGAIN "
+name="Stellar Ford"
+desc="Ford Motor Company, commonly known as Ford, is an American multinational automaker that has its main headquarters in Dearborn, Michigan, a suburb of Detroit. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and most luxury cars under the Lincoln brand."
 conditions="EVERYONE CAN ADD THIS ASSET "
-image="https://i.ibb.co/94Pccgm/4d58d395a11f23b5cd58caeafce58b19-1024x576.jpg"
-fixed_number=1000000
-max_number=1000000
+image="https://i.ibb.co/Q8GqT7s/Ford-logo-flat-svg.png"
+fixed_number=5000000
+max_number=5000000
 is_unlimited=false
-#TRUMP was issued using the open and inclusive Stellar blockchain network.
+#XLMFORD was issued using the open and inclusive Stellar blockchain network.
