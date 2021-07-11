@@ -1,26 +1,26 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDYQ4J76NUUSA2WISSGFE6JE4S52WB7VJWMEW2E4JVIIXP23VREFKIOE"
+"GDSVZHYW7DPOCETMY3VVKE2NQWFZOYKWHXWCRCLWNVKBWQD4KGHIG5WU"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMFORD"
-ORG_TWITTER="@XLMFORD"
-ORG_LOGO="https://i.ibb.co/Q8GqT7s/Ford-logo-flat-svg.png"
-ORG_OFFICIAL_EMAIL="fordxlm@tutanota.com"
+ORG_NAME="Gemsociety"
+ORG_TWITTER="@GEMSOCIETY"
+ORG_LOGO="https://i.ibb.co/7yKBGRn/Dec16-Sapphire-II.webp
+ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="XLMFORD"
-issuer="GDYQ4J76NUUSA2WISSGFE6JE4S52WB7VJWMEW2E4JVIIXP23VREFKIOE"
+code="SapphireGem"
+issuer="GDSVZHYW7DPOCETMY3VVKE2NQWFZOYKWHXWCRCLWNVKBWQD4KGHIG5WU"
 anchor_asset="false"
-name="Stellar Ford"
-desc="Ford Motor Company, commonly known as Ford, is an American multinational automaker that has its main headquarters in Dearborn, Michigan, a suburb of Detroit. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and most luxury cars under the Lincoln brand."
-conditions="EVERYONE CAN ADD THIS ASSET "
-image="https://i.ibb.co/Q8GqT7s/Ford-logo-flat-svg.png"
-fixed_number=5000000
-max_number=5000000
+name="Sapphire Gem"
+desc="Few gems have held our attention over millennia as well as sapphire. The pure blue colors and excellent durability of this gem-quality member of the corundum family make for an exceptional gemstone. However, not all sapphires are blue. The September birthstone comes in every color of the rainbow. Except red."
+conditions="Sapphire prices can range greatly, depending on many factors. Sapphires can come as cheap as $25 per carat, to over $11,000 per carat. A blue sapphire around 1 carat is likely to cost from as little as $450 to $1,600, depending on quality"
+image="https://i.ibb.co/7yKBGRn/Dec16-Sapphire-II.webp"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
 #XLMFORD was issued using the open and inclusive Stellar blockchain network.
