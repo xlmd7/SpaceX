@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GD5UZSHVXIQSNLOSZOOJSJMAPDHMLCMTPTSCAUNYLBNR5IF3FRMADYZW"
+"GA62MRVNYDGLUZK2SWUTU7QZ7NCCNKG263BP3NWOBG3BNSGFHKBNOKXR"
 ]
 VERSION="2.0.0"
 
@@ -10,20 +10,19 @@ ORG_NAME="Gemsociety"
 ORG_URL="https://www.gemsociety.org"
 ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/5YxNYYG/414tk-NH-Wg-L.jpg"
+ORG_LOGO="https://i.ibb.co/Wxm8m7z/4-17.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="WhiteDiamond"
-issuer="GD5UZSHVXIQSNLOSZOOJSJMAPDHMLCMTPTSCAUNYLBNR5IF3FRMADYZW"
+code="BlackDiamond"
+issuer="GA62MRVNYDGLUZK2SWUTU7QZ7NCCNKG263BP3NWOBG3BNSGFHKBNOKXR"
 anchor_asset="false"
-name="WhiteDiamondGem"
-desc="Buying a diamond does not have to be a stressful experience. Every diamond is unique and there are a variety of factors which affect the price of a diamond. Focus on those factors most important to you, and choose a diamond that satisfies your individual standards for beauty and value.
-You’ll often hear the term ‘white’ applied to colourless diamonds. This is not technically true to name diamonds colourless – as white on the colour spectrum is the sum of all colours, and upon gazing at the face of a white diamond, you will see hints and hues of the rainbow."
-conditions="A 1.00 carat diamond can range in price from about $1,000 to over $12,000."
-image="https://i.ibb.co/5YxNYYG/414tk-NH-Wg-L.jpg"
+name="BlackDiamondGem"
+desc="Black diamonds are considered fancy colored diamonds and are graded differently than the more common white or colorless diamonds. Unlike other fancy colors, such as blues or pinks, black diamonds may cost less than white diamonds, due to a lack of consumer demand. However, tastes do change. In recent years, black diamonds have become increasingly popular, especially appealing to those looking for something very dramatic and different in an engagement ring or other type of jewelry."
+conditions="The average wholesale price of a 9 carat diamond is calculated by multiplying the price per carat value by 9. The wholesale prices for GIA Certified a 9 carat diamond will range between $123,201 and $1,804,815."
+image="https://i.ibb.co/Wxm8m7z/4-17.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#YellowD was issued using the open and inclusive Stellar blockchain network.
+#BlackDiamond was issued using the open and inclusive Stellar blockchain network.
