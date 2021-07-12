@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDSVZHYW7DPOCETMY3VVKE2NQWFZOYKWHXWCRCLWNVKBWQD4KGHIG5WU"
+"GBRGIDTUIZOKKQX4SFAB7QPL6IPXLOH2AXL76JU4MLRFH7YC7CWOLAHG"
 ]
 VERSION="2.0.0"
 
@@ -10,19 +10,19 @@ ORG_NAME="Gemsociety"
 ORG_URL="https://www.gemsociety.org"
 ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/7yKBGRn/Dec16-Sapphire-II.webp"
+ORG_LOGO="https://i.ibb.co/dk1nTMm/61-Iq-EHV6-VHL-UL1500.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="SapphireGem"
-issuer="GDSVZHYW7DPOCETMY3VVKE2NQWFZOYKWHXWCRCLWNVKBWQD4KGHIG5WU"
+code="YellowD"
+issuer="GBRGIDTUIZOKKQX4SFAB7QPL6IPXLOH2AXL76JU4MLRFH7YC7CWOLAHG"
 anchor_asset="false"
-name="Sapphire Gem"
-desc="Few gems have held our attention over millennia as well as sapphire. The pure blue colors and excellent durability of this gem-quality member of the corundum family make for an exceptional gemstone. However, not all sapphires are blue. The September birthstone comes in every color of the rainbow. Except red."
-conditions="Sapphire prices can range greatly, depending on many factors. Sapphires can come as cheap as $25 per carat, to over $11,000 per carat. A blue sapphire around 1 carat is likely to cost from as little as $450 to $1,600, depending on quality"
-image="https://i.ibb.co/7yKBGRn/Dec16-Sapphire-II.webp"
+name="YellowDiamondGem"
+desc="Perhaps the most fantastic of yellow gems, yellow diamonds are gaining popularity. These gems range from muted brownish hues to vivid yellows with hints of orange or green, and combine beautiful color with the durability and brilliance of diamond. Yellow hues aren’t as uncommon as other diamond colors, but can reach higher levels of saturation than most fancy colored diamonds. The high demand for these gems keeps prices comparable to white diamonds. However, the four Cs of fancy colored yellow diamonds vary greatly from standards for colorless or white diamonds. Before you consider buying a yellow diamond, learn about their distinct value factors."
+conditions="Fancy yellow diamonds are usually more expensive than white diamonds, but are often significantly less expensive than other fancy colored diamonds. A 0.7 carat fancy vivid yellow diamond may be around $6,500."
+image="https://i.ibb.co/dk1nTMm/61-Iq-EHV6-VHL-UL1500.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#XLMFORD was issued using the open and inclusive Stellar blockchain network.
+#YellowD was issued using the open and inclusive Stellar blockchain network.
