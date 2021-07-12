@@ -7,6 +7,8 @@ VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Gemsociety"
+ORG_URL="https://www.gemsociety.org"
+ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
 ORG_TWITTER="@GEMSOCIETY"
 ORG_LOGO="https://i.ibb.co/7yKBGRn/Dec16-Sapphire-II.webp"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
