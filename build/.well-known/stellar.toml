@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCH4EMMNF4ETFNB34DV2MG2FMSVI6KBBYA6ENFS4ZJET327DS3WBDVUQ"
+"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
 ]
 VERSION="2.0.0"
 
@@ -10,19 +10,19 @@ ORG_NAME="Gemsociety"
 ORG_URL="https://www.gemsociety.org"
 ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/VCQZxST/This-0-25-ct-yellowish-green-diamond-is-a-multi-step-treated-diamond.jpg"
+ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="GreenDiamond"
-issuer="GCH4EMMNF4ETFNB34DV2MG2FMSVI6KBBYA6ENFS4ZJET327DS3WBDVUQ"
+code="EmeraldGem"
+issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
 anchor_asset="false"
-name="GreenDiamondGem"
-desc="Green diamonds are considered one of the rarer colors within the Fancy Diamond world. In fact, the only colors that are more difficult to find are red, pink, blue, violet and orange. Because of green's extreme rarity, these diamonds are often far pricier than other colored diamonds."
-conditions="A 1 carat fancy green diamond can be sold for $50,000-$100,000 per carat; fancy intense--$150,000-$200,000 per carat; and the price of a fancy vivid green diamond starts at over $300,000 per carat."
-image="https://i.ibb.co/VCQZxST/This-0-25-ct-yellowish-green-diamond-is-a-multi-step-treated-diamond.jpg"
+name="Emerald Gem"
+desc="Green diamonds are considered one of the rarer colors within the Fancy Diamond world. In fact, the only colors that are more difficult to find are red, pink, blue, violet and orange. Because of green's extreme rarity, these diamonds are often far pricier than other colored diamonds.Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium and/or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness (resistance to breakage) is classified as generally poor."
+conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
+image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#GreenDiamond was issued using the open and inclusive Stellar blockchain network.
+#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
