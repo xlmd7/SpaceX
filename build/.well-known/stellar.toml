@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA62MRVNYDGLUZK2SWUTU7QZ7NCCNKG263BP3NWOBG3BNSGFHKBNOKXR"
+"GCH4EMMNF4ETFNB34DV2MG2FMSVI6KBBYA6ENFS4ZJET327DS3WBDVUQ"
 ]
 VERSION="2.0.0"
 
@@ -10,19 +10,19 @@ ORG_NAME="Gemsociety"
 ORG_URL="https://www.gemsociety.org"
 ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/Wxm8m7z/4-17.jpg"
+ORG_LOGO="https://i.ibb.co/VCQZxST/This-0-25-ct-yellowish-green-diamond-is-a-multi-step-treated-diamond.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="BlackDiamond"
-issuer="GA62MRVNYDGLUZK2SWUTU7QZ7NCCNKG263BP3NWOBG3BNSGFHKBNOKXR"
+code="GreenDiamond"
+issuer="GCH4EMMNF4ETFNB34DV2MG2FMSVI6KBBYA6ENFS4ZJET327DS3WBDVUQ"
 anchor_asset="false"
-name="BlackDiamondGem"
-desc="Black diamonds are considered fancy colored diamonds and are graded differently than the more common white or colorless diamonds. Unlike other fancy colors, such as blues or pinks, black diamonds may cost less than white diamonds, due to a lack of consumer demand. However, tastes do change. In recent years, black diamonds have become increasingly popular, especially appealing to those looking for something very dramatic and different in an engagement ring or other type of jewelry."
-conditions="The average wholesale price of a 9 carat diamond is calculated by multiplying the price per carat value by 9. The wholesale prices for GIA Certified a 9 carat diamond will range between $123,201 and $1,804,815."
-image="https://i.ibb.co/Wxm8m7z/4-17.jpg"
+name="GreenDiamondGem"
+desc="Green diamonds are considered one of the rarer colors within the Fancy Diamond world. In fact, the only colors that are more difficult to find are red, pink, blue, violet and orange. Because of green's extreme rarity, these diamonds are often far pricier than other colored diamonds."
+conditions="A 1 carat fancy green diamond can be sold for $50,000-$100,000 per carat; fancy intense--$150,000-$200,000 per carat; and the price of a fancy vivid green diamond starts at over $300,000 per carat."
+image="https://i.ibb.co/VCQZxST/This-0-25-ct-yellowish-green-diamond-is-a-multi-step-treated-diamond.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#BlackDiamond was issued using the open and inclusive Stellar blockchain network.
+#GreenDiamond was issued using the open and inclusive Stellar blockchain network.
